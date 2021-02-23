@@ -130,10 +130,6 @@ html, body {
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
   transform: rotateZ(45deg);
 }
-
-/* cake animation stuff from: https://codepen.io/WithAnEs/pen/OVZRvg
-   not created by me! It's by Mark Thomes.
-*/
 .cake {
   position: absolute;
   width: 100px;
